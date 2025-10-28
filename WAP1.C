@@ -1,4 +1,4 @@
-// This Program Is Developed By Danish Reyaz Mir
+// This Program Is Developed By Satyam
 #include <stdio.h>
 int main()
 {
@@ -19,3 +19,4 @@ int main()
     printf("\ndivision of two number=%d", c);
     return 0;
 }
+
