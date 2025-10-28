@@ -1,4 +1,4 @@
-// This Program Is Developed By Danish Reyaz Mir
+// This Program Is Developed By Satyam
 #include <stdio.h>
 main()
 {
@@ -13,3 +13,4 @@ main()
     b = c;
     printf(" value of a and b after swaping\n%d\n%d", a, b);
 }
+
