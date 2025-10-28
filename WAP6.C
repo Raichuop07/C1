@@ -1,4 +1,4 @@
-// This Program Is Developed By Danish Reyaz Mir
+// This Program Is Developed By Satyam
 #include <stdio.h>
 int main()
 {
@@ -15,4 +15,5 @@ int main()
         printf("enter the valid lowercase alphabet");
     }
     return 0;
+
 }
