@@ -1,4 +1,4 @@
-// This Program Is Developed By Danish Reyaz Mir
+// This Program Is Developed By Satyam
 #include <stdio.h>
 main()
 {
@@ -14,3 +14,4 @@ main()
         b = next;
     }
 }
+
