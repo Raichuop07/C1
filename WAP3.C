@@ -1,4 +1,4 @@
-// This Program Is Developed By Danish Reyaz Mir
+// This Program Is Developed By Satyam
 #include <stdio.h>
 #include <conio.h>
 int main()
@@ -20,3 +20,4 @@ int main()
     printf("\nafter decrement value of 'b' is %d", d);
     return 0;
 }
+
