@@ -1,4 +1,4 @@
-// This Program Is Developed by Danish Reyaz Mir
+// This Program Is Developed by Satyam
 #include <stdio.h>
 main()
 {
@@ -12,3 +12,4 @@ main()
         i++;
     } while (i <= 10);
 }
+
