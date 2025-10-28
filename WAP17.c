@@ -1,3 +1,4 @@
+// This Program Is Developed By Satyam
 #include <stdio.h>
 
 int main()
@@ -21,3 +22,4 @@ int main()
 
     return 0;
 }
+
