@@ -1,4 +1,4 @@
-// This Program is Developed By Danish Reyaz Mir
+// This Program is Developed By Satyam
 #include <stdio.h>
 main()
 {
@@ -35,3 +35,4 @@ main()
         printf("Enter Valid Input");
     }
 }
+
