@@ -1,4 +1,4 @@
-// This Program Is Developed By Danish Reyaz Mir
+// This Program Is Developed By Satyam
 #include <stdio.h>
 main()
 {
@@ -21,3 +21,4 @@ main()
         printf("factorial of %llu is %llu", num, result);
     }
 }
+
