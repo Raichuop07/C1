@@ -1,3 +1,4 @@
+// This Program Is Developed By Satyam
 #include <stdio.h>
 
 // Function declaration (prototype)
@@ -24,4 +25,5 @@ int main()
 int add(int a, int b)
 {
     return a + b; // Returning result
+
 }
